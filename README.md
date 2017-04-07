@@ -3,9 +3,11 @@
 
 [![NPM](https://nodei.co/npm/node-oauth2-server.png?downloads=true)](https://www.npmjs.com/package/node-oauth2-server)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-node-oauth2-server/build/screen-capture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-node-oauth2-server_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-node-oauth2-server/build..beta..travis-ci.org/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-node-oauth2-server/build/screenCapture.buildNpmdoc.browser.%2Fhome%2Ftravis%2Fbuild%2Fnpmdoc%2Fnode-npmdoc-node-oauth2-server%2Ftmp%2Fbuild%2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-node-oauth2-server/build/apidoc.html)
 
-![package-listing](https://npmdoc.github.io/node-npmdoc-node-oauth2-server/build/screen-capture.npmPackageListing.svg)
+![npmPackageListing](https://npmdoc.github.io/node-npmdoc-node-oauth2-server/build/screenCapture.npmPackageListing.svg)
+
+![npmPackageDependencyTree](https://npmdoc.github.io/node-npmdoc-node-oauth2-server/build/screenCapture.npmPackageDependencyTree.svg)
 
 
 
